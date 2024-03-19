@@ -1,2 +1,4 @@
 *.gsheet
+*.csv
+*.parquet
 output - output.csv
