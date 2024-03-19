@@ -27,3 +27,33 @@ This project aims to analyze the characteristic of taxi trips in New York City. 
 | Total_amount           | The total amount charged to passengers. Does not include cash tips.                                |
 | Congestion_Surcharge   | Total amount collected in trip for NYS congestion surcharge.                                       |
 | Airport_fee            | $1.25 for pick up only at LaGuardia and John F. Kennedy Airports.                                 |
+
+## Conclusion
+
+Based on Exploratory Data Analysis: 
+
+1. While most taxi users travel short distances (0 - 2 miles), there are also taxi users who travel distances greater than 50 miles. 
+
+2. Taxi fares are heavily influenced by the distance traveled and trip durations, with the average user typically opting for short-distance trips.
+
+3. Most taxi users travel alone, but there are also taxi trips with either no passengers or more than five passengers.
+
+4. When viewed during the day, the number of taxi trips is nearly equal. However, when examining taxi trips by the hour, the majority of them occur after work hours
+
+5. Taxi users typically take 0 to 20 minutes to reach their destination, but there are also instances where taxi users take more than 240 minutes to reach their destination.
+
+6. Most taxi users utilize credit cards as a payment method, but there are also a small number of taxi users with No Charge and Dispute payment types.
+
+7. Most taxi users typically pay fares ranging from 0 to 20 USD, but there are also instances of negative taxi fares.
+
+8. The occurrence of the highest average taxi fare at 11 PM suggests a notable trend in transportation demand during late-night hours. Several factors could contribute to this peak in fares.
+
+Based on the insights gathered from our analysis of NYC taxi trips, we propose the following recommendations to enhance the efficiency and effectiveness of taxi services in New York City:
+
+1. **Optimize Fleet Allocation**: Utilize real-time data analytics to allocate taxi fleets strategically, ensuring that vehicles are deployed to areas with the highest demand during peak hours. 
+
+2. **Implement Dynamic Pricing**: Introduce dynamic pricing mechanisms that adjust fares based on demand and supply dynamics, time of day, and traffic conditions. 
+
+3. **Improve Payment Systems**: Streamline payment systems to offer more convenient and secure payment options, including mobile payment platforms and digital wallets.
+
+4. **Expand Service Coverage**: Expand taxi service coverage to underserved areas and neighborhoods, particularly those with limited access to public transportation options. 
