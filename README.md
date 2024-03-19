@@ -1,6 +1,7 @@
 # NYC Taxi Trip Analysis
 
 [Dashboard](https://lookerstudio.google.com/reporting/72b3cf92-b1f6-477e-92f6-dc76135a2bb4)
+[Presentation](https://www.canva.com/design/DAF_6YPs4dM/BaX6P6Nvs9AmFLx_oemNjg/edit?utm_content=DAF_6YPs4dM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 This project aims to analyze the characteristic of taxi trips in New York City. Characteristics of taxi trips in NYC are depicted through data visualization
 
